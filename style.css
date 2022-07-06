@@ -1,0 +1,171 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 35px;
+
+}
+p{
+    padding-bottom: 20px;
+}
+
+.top-banner {
+    background-image: url(images/FB_IMG.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.text-box{
+    display: inline;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(#f64c72, #fc4445);
+    padding: 7px 25px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.mid-banner{
+    text-align: center;
+}
+.text-box-2{
+    display: inline;
+    color: black;
+    text-align: center;
+    display: inline-block;
+    margin-top: 30px;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+.donation-amount{
+    display: flex;
+}
+.donate-money{
+    margin-bottom: 20px;
+}
+#type-amount{
+    text-align: center;
+    background-color: none;
+    border: none;
+    border-bottom: 1px solid rgb(26, 25, 25);
+}
+.money{
+    margin: 5px;
+    background-color: aliceblue;
+    padding: 20px 10px;
+    font-weight: 500;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+#most-fav{
+    color: #f64c72;
+    border: 3px solid #f64c72;
+    border-radius: 5px;
+}
+.donation-plan{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.plans{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.food-plan{
+    text-align: left;
+    background-color: aquamarine;
+    margin: 10px 10px;
+    padding-top: 30px;
+    padding-left: 10px;
+
+}
+.medical-plan{
+    text-align: left;
+    background-color: pink;
+    margin: 10px 10px;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.education-plan{
+    text-align: left;
+    background-color: khaki;
+    margin: 10px 10px;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+#type-email{
+    background-color: beige;
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 10px
+    
+}
+#submision{
+    background-color: rgb(235, 59, 28);
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    padding: 10px;
+}
+.about-us {
+    display: flex;
+    margin-left: 50px;
+}
+.half-width {
+    text-align: left;
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 90px
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 0px;
+    padding-right: 50px;
+}
+.subscription{
+    background-color: bisque;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.box{
+    display:flex;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+}
+footer{
+    color: white;
+    font-size: 15px;
+    font-weight: 200;
+    text-align: center;
+    background-color: black;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+}
+#finish-line{
+    color: #97caef;
+    font-size: 20px;
+}
